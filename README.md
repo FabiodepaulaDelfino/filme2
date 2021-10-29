@@ -34,24 +34,6 @@ http://tsunow2.s3.us-central-1.wasabisys.com/cdnespecial5/G.I.JOEOrigensSnakeEye
 http://tsunow2.s3.us-central-1.wasabisys.com/cdnespecial5/OMeninoqueMatouMeusPais.2021.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LISTA EXCLUSIVA PARA INSCRITOS PROIBIDO A VENDA ME AVISEM ZAP 24999421597 SE INSCREVAM " tvg-logo="https://yt3.ggpht.com/XOP647Q0WN0JLpehD9CVDhIzhH1d9RnTblWmHn_sIH3gCv0R6hiWl1Cr6YyGlN_oAWqzNsBa=s600-c-k-c0x00ffffff-no-rj-rp-mo"group-title="TUTORIAISDOFABIO",LISTA GRATUITA PARA INSCRITOS DO CANAL
 https://www.youtube.com/watch?v=v3b9dkLpf_8&t=24s 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://i.ytimg.com/vi/Yhy4Yz9uVBQ/hqdefault.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO",BATATINHA FRITA 1 2 3
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO",INFERNO
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO", O HOMEM DO GUARDA-CHUVA
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO", FIQUEM JUNTOS 
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO", UM MUNDO JUSTO
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO", GBANGU
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO", VIPS
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO", O LIDER
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x8.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="SE INSCREVA CANAL TUTORIASDOFABIO", UM DIA DE SORTE
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x9.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CANAL YOUTUBE" tvg-logo="" group-title="SE INSCREVA CANAL TUTORIASDOFABIO",
 https://www.youtube.com/watch?v=v3b9dkLpf_8&t=24s
 
@@ -5103,10 +5085,6 @@ http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/23228.mkv
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/23229.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kikoriki - Agência de Viagens Deja-Vu (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f48ba99da648dfa0e06e72788f3bfcaa.jpg" group-title="FILMESTUTORIASDOFABIO",Kikoriki - Agência de Viagens Deja-Vu (2018)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/23230.mkv
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo (1984)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b21bab4eec15cf40b060e6e6890b51cf.jpg" group-title="FILMESTUTORIASDOFABIO",A Hora do Pesadelo (1984)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/23232.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo (2010)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cd20dad46a931ee57b75ee08f06aa1a4.jpg" group-title="FILMESTUTORIASDOFABIO",A Hora do Pesadelo (2010)
