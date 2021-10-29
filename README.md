@@ -4676,7 +4676,6 @@ http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/16673.mp4
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/16674.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Reino Unido (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl13OXBp7Ss1rkpHA0Nh3Girkmu.jpg" group-title="FILMESTUTORIASDOFABIO",Um Reino Unido (2016)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/16675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS: HD",Warner Channel HD+
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16765
 #EXTINF:-1 tvg-id="" tvg-name="Amor com Data Marcada (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2dfc9daea443f0c95852478dec79f7ee.jpg" group-title="FILMESTUTORIASDOFABIO",Amor com Data Marcada (2020)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/16950.mkv
@@ -5280,8 +5279,6 @@ http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/24564.mkv
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/24565.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Tempo com Você (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/568ff4b170aa40339668add80b9fa68c.jpg" group-title="FILMESTUTORIASDOFABIO",O Tempo com Você (2019)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/24566.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CONFESSIONARIO" tvg-logo="" group-title="CANAIS: HD",BBB 21 CONFESSIONARIO
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/24570
 #EXTINF:-1 tvg-id="" tvg-name="Assassinos Sádicos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="FILMESTUTORIASDOFABIO",Assassinos Sádicos (2021)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/24581.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cabana da Possessão (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fac6415ebc7fba421b4f04540d724c40.jpg" group-title="FILMESTUTORIASDOFABIO",Cabana da Possessão (2019)
@@ -5582,22 +5579,6 @@ http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/32610.mkv
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/32611.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Delivery Macabro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nEE8KLQGVim5hiTvVotOeGzME7.jpg" group-title="FILMESTUTORIASDOFABIO",Delivery Macabro (2019)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/32633.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 01 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 01 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32857
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 02 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 02 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32858
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 04 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 04 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32859
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 05 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 05 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32860
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 06 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 06 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32861
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 07 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 07 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32862
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 08 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 08 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32863
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 09 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 09 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32864
 #EXTINF:-1 tvg-id="" tvg-name="Espécies em Perigo (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2b6dbd9efc9bbc2ee244bac042052972.jpg" group-title="FILMESTUTORIASDOFABIO",Espécies em Perigo (2021)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/32865.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:  O Longo Dia das Bruxas – Parte 1 (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cdb0919aeac3d3e8e5139bf461f8a11.jpg" group-title="FILMESTUTORIASDOFABIO",Batman:  O Longo Dia das Bruxas – Parte 1 (2021)
@@ -5762,32 +5743,6 @@ http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/33717.mkv
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/33718.mkv
 #EXTINF:-1 tvg-id="" tvg-name="À Segunda Vista (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7f2a38836ea7d454d9668b2e70e2f0eb.jpg" group-title="FILMESTUTORIASDOFABIO",À Segunda Vista (2021)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/33719.mkv
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD²
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33730
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CANAIS: FILMES E SERIES",AMC HD²
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33731
-#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="CANAIS: FILMES E SERIES",Film & Arts
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33732
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1ea29ac81e62157172ba49b0d396461.png" group-title="CANAIS: ABERTOS",FUTURA HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33733
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1ea29ac81e62157172ba49b0d396461.png" group-title="CANAIS: ABERTOS",FUTURA FHD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33734
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: HD",GLOBO TV VERDES MARES HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33736
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal HD Belém" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",Globo TV Liberal HD Belém
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33737
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8e6879f4d0b210477c75636b27e078dd.png" group-title="CANAIS: VARIEDADES",MUSIC BOX BRASIL HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33738
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/36837395e1111276d242f6599130cd9e.png" group-title="CANAIS: INFANTIS",GLOOBINHO FULL HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33739
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/36837395e1111276d242f6599130cd9e.png" group-title="CANAIS: INFANTIS",GLOOBINHO HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33740
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO H265" tvg-logo="http://xcui.vitvabc.xyz:8880/images/36837395e1111276d242f6599130cd9e.png" group-title="CANAIS: GLOBO",GLOOBINHO H265
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33741
-#EXTINF:-1 tvg-id="" tvg-name="Like HD" tvg-logo="" group-title="CANAIS: HD",Like HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33742
-#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/759800dee368ce2cf44d2db23d16f682.png" group-title="CANAIS: RELIGIOSOS",PAI ETERNO FULLHD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33743
 #EXTINF:-1 tvg-id="" tvg-name="Stardust (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6a496d5d56840919b18f54661e0b27eb.jpg" group-title="FILMESTUTORIASDOFABIO",Stardust (2020)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/33744.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tsunami Zumbi (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e1d517df4d29a57fb7ce1121d512cce6.jpg" group-title="FILMESTUTORIASDOFABIO",Tsunami Zumbi (2019)
@@ -5850,8 +5805,6 @@ http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/34174.avi
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/34182.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Exterminadores do Além Contra a Loira do Banheiro (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a1b2ebb85a4f36cd0ed85ec42ed04eb2.jpg" group-title="FILMESTUTORIASDOFABIO",Exterminadores do Além Contra a Loira do Banheiro (2018)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/34183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sportv 4 UHD" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/11/93b93c34bd95b28979fa77a2c983.png" group-title="CANAIS: ESPORTES",Sportv 4 UHD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/34185
 #EXTINF:-1 tvg-id="" tvg-name="12 Rounds 3: Caçada Mortal (2015)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/23c05d3b1ec6981cc490a9909658a1e3.jpg" group-title="FILMESTUTORIASDOFABIO",12 Rounds 3: Caçada Mortal (2015)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/34186.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ali no Queens (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6ca80ad065426a379b832e2587266cfa.jpg" group-title="FILMESTUTORIASDOFABIO",Ali no Queens (2021)
@@ -5868,8 +5821,6 @@ http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/34191.mkv
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/34192.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stigmata (1999)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/84ea9192f1ea2760329d7c7d684056d6.jpg" group-title="FILMESTUTORIASDOFABIO",Stigmata (1999)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/34193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mosaico SporTV HD" tvg-logo="" group-title="CANAIS: ESPORTES",Mosaico SporTV HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/34194
 #EXTINF:-1 tvg-id="" tvg-name="Inteligência Artificial: Ascensão das Máquinas (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d37e300caeb1e871053d2f9c45b7bbd9.jpg" group-title="FILMESTUTORIASDOFABIO",Inteligência Artificial: Ascensão das Máquinas (2018)
 http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/34195.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Preciosa: Uma História de Esperança (2009)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/86d0bee0de74dc02cd54a4b381548241.jpg" group-title="FILMESTUTORIASDOFABIO",Preciosa: Uma História de Esperança (2009)
